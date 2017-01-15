@@ -13,14 +13,14 @@ Coord Studio
 2.　気温に適した服装の着用が可能になる[3]
 3.　選択・決断の負担を解消される
 ##開発に利用した技術
-WheatherHacksAPI
-Google Cloud Vision API
-HTML
-CSS
-JavaScript
-PHP
-MySQL
-Adobe illustrator
+*WheatherHacksAPI
+*Google Cloud Vision API
+*HTML
+*CSS
+*JavaScript
+*PHP
+*MySQL
+*Adobe illustrator
 
 ##参考文献
 [1] Suzie,2015.03.15,http://suzie-news.jp/archives/5880
