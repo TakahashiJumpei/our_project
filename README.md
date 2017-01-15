@@ -22,6 +22,7 @@ Coord Studio
 *MySQL
 *Adobe illustrator
 
+
 ##参考文献
 [1] Suzie,2015.03.15,http://suzie-news.jp/archives/5880
 [2] フージェーン・C(2014)「決断疲れ」が生産性を奪う, Newsweek = ニューズウィーク 29(42), CCCメディアハウス
