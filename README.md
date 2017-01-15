@@ -27,12 +27,12 @@ Coord Studio
 [2] フージェーン・C(2014)「決断疲れ」が生産性を奪う, Newsweek = ニューズウィーク 29(42), CCCメディアハウス
 [3]戦争が生んだ天気予報とカーディガン,http://www.excite.co.jp/News/bit/00091099275119.html
 ##Biult With
-weatherhacksapi
-html
-css
-php
-javascript
-google-cloud-vision-api
-mysql
-adobe-illustrator
+*weatherhacksapi
+*html
+*css
+*php
+*javascript
+*google-cloud-vision-api
+*mysql
+*adobe-illustrator
 
